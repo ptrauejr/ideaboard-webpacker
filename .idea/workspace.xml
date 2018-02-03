@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f2853d-fbfd-4561-8684-f1566678a6c7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/javascript/ideaboard/components/IdeasContainer.js" afterPath="$PROJECT_DIR$/app/javascript/ideaboard/components/IdeasContainer.js" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/ideaboard.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/ideaboard.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -39,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IdeasContainer.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IdeasContainer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/javascript/ideaboard/components/IdeasContainer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
@@ -51,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ideaboard.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ideaboard.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/ideaboard.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            <state relative-caret-position="390">
+              <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -101,8 +101,8 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
         <option value="$PROJECT_DIR$/app/javascript/ideaboard/index.js" />
         <option value="$PROJECT_DIR$/app/javascript/ideaboard/components/App.js" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/ideaboard.css" />
         <option value="$PROJECT_DIR$/app/javascript/ideaboard/components/IdeasContainer.js" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/ideaboard.css" />
       </list>
     </option>
   </component>
@@ -435,12 +435,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517692211417</updated>
-      <workItem from="1517692213894" duration="6313000" />
+      <workItem from="1517692213894" duration="6423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6313000" />
+    <option name="totallyTimeSpent" value="6423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="277" y="25" width="1400" height="866" extended-state="0" />
@@ -634,14 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/ideaboard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -657,6 +649,14 @@
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/ideaboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
