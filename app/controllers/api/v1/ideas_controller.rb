@@ -3,7 +3,7 @@ module Api::V1
     skip_before_action :verify_authenticity_token
 
     def index
-      @ideas = Idea.all
+      @ideas = Idea.order("created_at DESC")
       render json: @ideas
     end
 
