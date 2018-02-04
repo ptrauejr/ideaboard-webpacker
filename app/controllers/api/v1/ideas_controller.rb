@@ -1,5 +1,7 @@
 module Api::V1
   class IdeasController < ApplicationController
+    skip_before_action :verify_authenticity_token
+
     def index
       @ideas = Idea.all
       render json: @ideas
