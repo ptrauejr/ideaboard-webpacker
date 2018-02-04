@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70f2853d-fbfd-4561-8684-f1566678a6c7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/javascript/ideaboard/components/IdeaForm.js" afterPath="$PROJECT_DIR$/app/javascript/ideaboard/components/IdeaForm.js" />
-      <change beforePath="$PROJECT_DIR$/app/javascript/ideaboard/components/IdeasContainer.js" afterPath="$PROJECT_DIR$/app/javascript/ideaboard/components/IdeasContainer.js" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/ideaboard/components/Idea.js" afterPath="$PROJECT_DIR$/app/javascript/ideaboard/components/Idea.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -23,7 +22,7 @@
       <file leaf-file-name="IdeasContainer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/javascript/ideaboard/components/IdeasContainer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="615">
               <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
@@ -32,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IdeaForm.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IdeaForm.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/javascript/ideaboard/components/IdeaForm.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -44,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Idea.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Idea.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/javascript/ideaboard/components/Idea.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,12 +109,12 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
         <option value="$PROJECT_DIR$/app/javascript/ideaboard/index.js" />
         <option value="$PROJECT_DIR$/app/javascript/ideaboard/components/App.js" />
-        <option value="$PROJECT_DIR$/app/javascript/ideaboard/components/Idea.js" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/ideaboard.css" />
         <option value="$PROJECT_DIR$/app/controllers/api/v1/ideas_controller.rb" />
         <option value="$PROJECT_DIR$/app/javascript/ideaboard/components/IdeasContainer.js" />
         <option value="$PROJECT_DIR$/app/javascript/ideaboard/components/IdeaForm.js" />
+        <option value="$PROJECT_DIR$/app/javascript/ideaboard/components/Idea.js" />
       </list>
     </option>
   </component>
@@ -448,12 +447,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517692211417</updated>
-      <workItem from="1517692213894" duration="12427000" />
+      <workItem from="1517692213894" duration="13289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12427000" />
+    <option name="totallyTimeSpent" value="13289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="276" y="23" width="1400" height="866" extended-state="0" />
@@ -639,14 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/javascript/ideaboard/components/Idea.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -671,16 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/javascript/ideaboard/components/IdeasContainer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/javascript/ideaboard/components/IdeaForm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -688,6 +669,24 @@
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/javascript/ideaboard/components/IdeasContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/javascript/ideaboard/components/Idea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
